@@ -1,0 +1,2 @@
+# Prediction-Classification-of-Traffic-Data-with-KNN-and-RFR-for-a-Smart-IoV-System
+Instituted an algorithm to predict &amp; classify traffic conditions (weather, directions, traffic speed &amp; congestions) via existing traffic data collected throughout the years in Chicago. Exploited KNN and RFR algorithms to fulfil the task. Accepted for publication by 4th SMART CITIES SYMPOSIUM, University of Bahrain 
