@@ -17,3 +17,4 @@ With the massive surge in population, the number of vehicles has also risen expo
 1. Pip3 install the necessary libraries required by the algorithm.
 2. Make sure that the .csv file and the algorithm is present in the same directory.
 3. Run the algorithm to visualize prediction accuracy and classification confusion matrix.
+4. On the latest version of Scikitlearn, use the Prediction+Classification_ColumnTransformer file, as the initially used OneHotEncoder has been deprecated in the recent versions.
