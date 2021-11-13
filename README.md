@@ -12,7 +12,7 @@ With the massive surge in population, the number of vehicles has also risen expo
 
 ![image](https://user-images.githubusercontent.com/47136906/141652260-1290af00-e530-4f5c-bfdd-9ed8752f16d0.png)
 
-## Readme
+## Requirements
 
 1. Pip3 install the necessary libraries required by the algorithm.
 2. Make sure that the .csv file and the algorithm is present in the same directory.
